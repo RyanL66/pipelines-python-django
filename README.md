@@ -1,5 +1,5 @@
 # Sample Python app for Azure Pipelines docs
-[![Build Status](https://dev.azure.com/BoLu0788/DoubleLproject/_apis/build/status/RyanL66.pipelines-python-django)](https://dev.azure.com/BoLu0788/DoubleLproject/_build/latest?definitionId=2)
+[![Build Status](https://dev.azure.com/BoLu0788/DoubleLproject/_apis/build/status/Ryan_pipelines)](https://dev.azure.com/BoLu0788/DoubleLproject/_build/latest?definitionId=3)
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
