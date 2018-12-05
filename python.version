@@ -1,0 +1,5 @@
+- bash: echo "##vso[task.prependpath]/usr/share/miniconda/bin"
+  displayName: Add conda to PATH
+
+- bash: conda create --yes --quiet --name myEnvironment python=$PYTHON_VERSION # [other packages ...]
+  displayName: Create Anaconda environment
